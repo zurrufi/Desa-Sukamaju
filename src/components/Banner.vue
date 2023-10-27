@@ -26,10 +26,10 @@
 </template>
 <style scoped>
 /* .banner {
-  background: rgb(0, 27, 133);
+  background: rgb(0, 27, 200);
   background: linear-gradient(
     90deg,
-    rgba(0, 27, 133, 1) 0%,
+    rgba(0, 27, 200, 1) 0%,
     rgba(0, 7, 78, 1) 40%
   );
 } */
