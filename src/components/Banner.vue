@@ -9,7 +9,7 @@
       <p class="text-white text-2xl mb-2">Profile Desa</p>
       <!-- Sesuaikan nama desa masing-masing -->
       <p class="text-white text-3xl">DESA SUKAMAJU</p>
-      <p class="text-white text-3xl">KECAMATAN CIBUNGBULANG</p>
+      <p class="text-white text-3xl">KEC. CIBUNGBULANG</p>
       <p class="text-white text-3xl">KABUPATEN BOGOR</p>
     </div>
     <div class="grid place-items-center ml-auto mr-20">
