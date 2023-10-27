@@ -1,5 +1,5 @@
 <template>
-  <div class="h-16 bg-tosca-700 flex">
+  <div class="h-16 bg-orange-700 flex">
     <!-- <div
       class="w-16 h-16 h-full bg-green-500 grid place-items-center cursor-pointer mr-10"
     >
