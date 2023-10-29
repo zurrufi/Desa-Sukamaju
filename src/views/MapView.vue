@@ -30,7 +30,7 @@ import {
         :geojson="geojson"
         :key="index"
         layer-type="overlay"
-        :name="`Dusun ${index + 1}`"
+        :name="`RW ${index + 1}`"
       />
 
       <l-geo-json
@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/desa_sukamaju.json");
+      const response = await fetch("/Batas_RW.json");
       const data = await response.json();
 
       console.log(data);
