@@ -26,11 +26,11 @@ import {
       />
 
       <l-geo-json
-        v-for="(geojson, RW) in layerData"
+        v-for="(geojson, index) in layerData"
         :geojson="geojson"
-        :key="RW"
+        :key="index"
         layer-type="overlay"
-        :name="`RW ${RW + 1}`"
+        :name="`${geojson.properties.RW}`"
       />
 
       <l-geo-json
